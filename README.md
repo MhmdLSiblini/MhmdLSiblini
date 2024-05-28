@@ -30,6 +30,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  alt="Java" width="60" height="60"/>
 </p>
 
+<hr>
+
 <div align="center">
   <img src="https://github.com/MhmdLSiblini/MhmdLSiblini/assets/101715853/036d7da0-7485-4a8e-8379-7031b22fa9b3" alt="I keep moving forward">
 </div>
