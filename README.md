@@ -1,9 +1,5 @@
 <h1 align="center">Hey, The Name's Mohammad</h1>
 <h3 align="center">Welcome to my page! I'm a digital sculptor, molding ideas into captivating sites with the power of Frontend Development.</h3>
-<div align="center">
-![sculpting](https://github.com/MhmdLSiblini/MhmdLSiblini/assets/101715853/8b1cf3b4-bd21-4363-9980-56afedcc30fe)
-![web-design](https://github.com/MhmdLSiblini/MhmdLSiblini/assets/101715853/6dc569c8-9a98-4c97-ad0d-781805583166)
-</div>
 
 <hr>
 
@@ -37,8 +33,8 @@
 <hr>
 
 <div align="center">
-  <h3 align="center">I'll Keep on Moving Forward</h3>
-  <img src="https://github.com/MhmdLSiblini/MhmdLSiblini/assets/101715853/036d7da0-7485-4a8e-8379-7031b22fa9b3" alt="I keep moving forward">
+      <img src="https://github.com/MhmdLSiblini/MhmdLSiblini/assets/101715853/53b91082-ec88-4e19-9e1f-06cafaf6b706" alt="toji_fushiguro_manga_coloring" />
+        <p>Artwork by <a href="https://www.deviantart.com/itzzazure" target="_blank">itzzazure</a></p>
 </div>
 
 <!--
