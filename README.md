@@ -34,7 +34,7 @@
 
 <div align="center">
       <img src="https://github.com/MhmdLSiblini/MhmdLSiblini/assets/101715853/53b91082-ec88-4e19-9e1f-06cafaf6b706" alt="toji_fushiguro_manga_coloring" />
-        <p>Artwork by <a href="https://www.deviantart.com/itzzazure" target="_blank">itzzazure</a></p>
+        <p>Artwork by itzzazure</p>
 </div>
 
 <!--
