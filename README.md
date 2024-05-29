@@ -6,35 +6,35 @@
 <!-- Languages -->
 <h3 align="center">What I Use:</h3>
 <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="css3" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javascript" alt="javascript" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" alt="firebase" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="50" height="50"/>
 </p>
 
 <h3 align="center">Learning:</h3>
 <p align="center">
-        <img src="https://vvcestudio.com.br/assetsv5/img/codigo/logothreejs.png" alt="Three.js" width="60" height="60"/>
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/>
-        <img src="https://miro.medium.com/v2/resize:fit:1200/1*O6KluMvEBZ1cBL3EPo4tig.png" alt="Electron" width="60" height="60"/>
+        <img src="https://vvcestudio.com.br/assetsv5/img/codigo/logothreejs.png" title="Three.js" alt="Three.js" width="60" height="60"/>
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" title="Blender" alt="Blender" width="60" height="60"/>
+        <img src="https://miro.medium.com/v2/resize:fit:1200/1*O6KluMvEBZ1cBL3EPo4tig.png" title="Electron" alt="Electron" width="60" height="60"/>
 </p>
 
 
 <!-- Other Languages and Tools -->
 <h3 align="center">Others:</h3>
 <p align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  alt="Java" width="60" height="60"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino" alt="arduino" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  title="Java" alt="Java" width="60" height="60"/>
 </p>
 
 <hr>
 
 <div align="center">
-      <img src="https://github.com/MhmdLSiblini/MhmdLSiblini/assets/101715853/53b91082-ec88-4e19-9e1f-06cafaf6b706" alt="toji_fushiguro_manga_coloring" />
-        <p>Artwork by itzzazure</p>
+      <img src="https://github.com/MhmdLSiblini/MhmdLSiblini/assets/101715853/53b91082-ec88-4e19-9e1f-06cafaf6b706" title="Focused" alt="toji_fushiguro_manga_coloring" />
+      <p>Artwork by itzzazure</p>
 </div>
 
 <!--
