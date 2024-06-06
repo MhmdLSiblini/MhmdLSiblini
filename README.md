@@ -34,7 +34,6 @@
 
 <div align="center">
       <img src="https://github.com/MhmdLSiblini/MhmdLSiblini/assets/101715853/53b91082-ec88-4e19-9e1f-06cafaf6b706" title="Focused - Coloring by itzzazure" alt="toji_fushiguro_manga_coloring" />
-      <p>Coloring by itzzazure</p>
 </div>
 
 <!--
