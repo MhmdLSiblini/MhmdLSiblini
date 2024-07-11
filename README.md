@@ -1,5 +1,5 @@
 <h1 align="center">Hey, The Name's Mohammad</h1>
-<h3 align="center">Welcome to my page! I'm a digital sculptor, molding ideas into captivating sites with the power of Frontend Development. Check my E-portfolio and Socials Below:</h3>
+<h3 align="center">Welcome to my page! I'm a digital sculptor, molding ideas into captivating sites with the power of Frontend Development. Check out my E-portfolio and Socials Below:</h3>
 <br>
 <p align="center"> <a href="https://mhmdlsiblini.github.io/E-Portfolio-1/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=ZLTrllhOQJs2&format=png&color=000000" width="56" hspace="10"/></a> <a href="https://www.linkedin.com/in/mohammad-al-siblini-9a1096233/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="56" hspace="10"/></a></p>
 
